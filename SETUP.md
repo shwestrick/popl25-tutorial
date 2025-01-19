@@ -13,7 +13,7 @@ A simple installer and version switcher for `mpl`. It relies on
 Python 3.
 ```bash
 $ git clone https://github.com/MPLLang/mpl-switch
-# add ./mpl-switch to your PATH
+# add $(pwd -P)/mpl-switch to your PATH
 $ mpl-switch init
 # add ~/.mpl/bin to your PATH
 ```
@@ -40,7 +40,7 @@ A package manager for Standard ML.
 $ git clone https://github.com/diku-dk/smlpkg
 $ cd smlpkg
 $ MLCOMP=mlton make clean all
-# add ./src to your PATH
+# add $(pwd -P)/src to your PATH
 ```
 
 ## 5. Clone this repo and run the `init` script
