@@ -1,0 +1,15 @@
+demos/
+lib/
+data/words.txt
+
+01-fib/main
+01-fib/main.mlton
+
+02-wc/main
+02-wc/main.mlton
+
+03-findfirst/main
+03-findfirst/main.mlton
+
+04-wordlens/main
+04-wordlens/main.mlton
