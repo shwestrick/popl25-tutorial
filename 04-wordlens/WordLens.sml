@@ -23,7 +23,7 @@ struct
        *   isBoundary(i) returns true for i = 2,7,8,13
        *)
       fun isBoundary i =
-        raise Fail "Write your solution in 04-wordlens/WordLens.sml"
+        raise Fail "TODO: Write your solution in 04-wordlens/WordLens.sml"
 
 
       (* Hint: consider using a filter...
@@ -37,7 +37,7 @@ struct
        * The output is an array of the elements f(i) that satisfy p(i)
        *)
     in
-      raise Fail "Write your solution in 04-wordlens/WordLens.sml"
+      raise Fail "TODO: Write your solution in 04-wordlens/WordLens.sml"
     end
 
 end
